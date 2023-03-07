@@ -25,3 +25,12 @@ App to manage your pocket money and keep track of your expenses and account betw
   - on leaving the group, group admin will approve first that he can leave the group
 - between 2 people:
   - when a people is creating a entry that he paid to another person than the other person will be notified and he can accept or reject the entry weather he is paid or not
+
+## Color Reference
+
+| Color      | Hex                                                              |
+| ---------- | ---------------------------------------------------------------- |
+| Primary    | ![#2C6871](https://via.placeholder.com/10/2C6871?text=+) #2C6871 |
+| Accent     | ![#8FFFA8](https://via.placeholder.com/10/8FFFA8?text=+) #8FFFA8 |
+| Grey       | ![#B0BBC4](https://via.placeholder.com/10/B0BBC4?text=+) #B0BBC4 |
+| Grey light | ![#CBD2D8](https://via.placeholder.com/10/CBD2D8?text=+) #CBD2D8 |
